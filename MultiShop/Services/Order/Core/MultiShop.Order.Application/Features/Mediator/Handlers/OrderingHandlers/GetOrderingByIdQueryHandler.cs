@@ -29,7 +29,7 @@ namespace MultiShop.Order.Application.Features.Mediator.Handlers.OrderingHandler
                 OrderingId = values.OrderingId,
                 TotalPrice = values.TotalPrice,
                 UserId = values.UserId,
-            }
+            };
         }
     }
 }
