@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    ".NETCoreApp,Version=v3.1": {
       "IdentityModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -7261,7 +7261,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    ".NETCoreApp,Version=v3.1": [
       "IdentityServer4.AspNetIdentity >= 4.0.0",
       "Microsoft.AspNetCore.Authentication.Google >= 3.1.5",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.5",
@@ -7290,7 +7290,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -7298,8 +7298,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -7315,8 +7315,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "IdentityServer4.AspNetIdentity": {
             "target": "Package",
@@ -7376,7 +7376,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
