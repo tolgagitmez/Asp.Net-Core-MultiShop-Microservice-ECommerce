@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.Cargo.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d34437ee56a012600a1cf889dbdbe7518800b2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfbd58fe3b252d3404fa8a96483ce85b756c4507")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShop.Cargo.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.Cargo.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
