@@ -5,13 +5,11 @@ using MultiShop.DtoLayer.CatalogDtos.CategoryDtos;
 using Newtonsoft.Json;
 using System.Net.Http;
 using System.Text;
-using RouteAttribute = Microsoft.AspNetCore.Components.RouteAttribute;
 
 namespace MultiShop.WebUI.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [AllowAnonymous]
-    [Route("Admin/Category")]
     public class CategoryController : Controller
     {
         private readonly IHttpClientFactory _httpClientFactory;
@@ -81,10 +79,6 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> UpdateCategory(string id)
         {
-            ViewBag.v0 = "Kategori İşlemleri";
-            ViewBag.v1 = "Anasayfa";
-            ViewBag.v2 = "Kategoriler";
-            ViewBag.v3 = "Kategori Güncelleme Sayfası";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7001/api/Categories/" + id);
             if (responseMessage.IsSuccessStatusCode)
@@ -107,7 +101,7 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
 
             if (responseMessage.IsSuccessStatusCode)
             {
-                return RedirectToAction("Index","Categories", new { area = "Admin"});
+                return RedirectToAction("Index","Category", new { area = "Admin"});
             }
             return View();
         }
