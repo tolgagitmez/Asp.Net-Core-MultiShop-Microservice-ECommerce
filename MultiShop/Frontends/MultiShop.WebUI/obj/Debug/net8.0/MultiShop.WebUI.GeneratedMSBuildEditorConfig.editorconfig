@@ -86,6 +86,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U2lkZWJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/SpecialOffer/CreateSpecialOffer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lhbE9mZmVyXENyZWF0ZVNwZWNpYWxPZmZlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/SpecialOffer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lhbE9mZmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/SpecialOffer/UpdateSpecialOffer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lhbE9mZmVyXFVwZGF0ZVNwZWNpYWxPZmZlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

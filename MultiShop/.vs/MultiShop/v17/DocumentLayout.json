@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\areas\\admin\\controllers\\specialoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\controllers\\specialoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\services\\catalog\\multishop.catalog\\services\\specialofferservices\\specialofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\specialofferservices\\specialofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\services\\catalog\\multishop.catalog\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\services\\catalog\\multishop.catalog\\controllers\\specialoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\specialoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\services\\catalog\\multishop.catalog\\services\\productimageservices\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811DF66A-ACA3-46EF-9858-6BE2C27F9577}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\productimageservices\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SpecialOfferController.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\SpecialOfferController.cs",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\SpecialOfferController.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\SpecialOfferController.cs",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\SpecialOfferController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:46:03.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:33:15.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SpecialOfferService.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\SpecialOfferServices\\SpecialOfferService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\SpecialOfferServices\\SpecialOfferService.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\SpecialOfferServices\\SpecialOfferService.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\SpecialOfferServices\\SpecialOfferService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABEAAAA",
+              "Title": "ProductImageService.cs",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductImageServices\\ProductImageService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:27:51.986Z",
+              "WhenOpened": "2024-08-23T19:02:20.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T19:27:29.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SpecialOfferController.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\SpecialOfferController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\SpecialOfferController.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\SpecialOfferController.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\SpecialOfferController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:27:14.036Z",
+              "WhenOpened": "2024-08-23T18:40:19.12Z",
               "EditorCaption": ""
             }
           ]
