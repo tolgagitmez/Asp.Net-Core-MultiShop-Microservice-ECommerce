@@ -54,6 +54,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVNsaWRlclxVcGRhdGVGZWF0dXJlU2xpZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/ProductDetail/UpdateProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdERldGFpbFxVcGRhdGVQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/ProductImage/ProductImageDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEltYWdlXFByb2R1Y3RJbWFnZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/teteg/Masaüstü/dosyalarım/proje/Asp.Net-Core-MultiShop-Microservice-ECommerce/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Product/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
