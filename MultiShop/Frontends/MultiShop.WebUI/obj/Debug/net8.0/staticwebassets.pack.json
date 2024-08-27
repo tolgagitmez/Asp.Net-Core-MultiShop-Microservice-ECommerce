@@ -1129,6 +1129,102 @@
       "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\widgets.html"
     },
     {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\opensans-font.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\css\\opensans-font.css"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\style.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\index.html",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\readme.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\readme.txt"
+    },
+    {
       "Id": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

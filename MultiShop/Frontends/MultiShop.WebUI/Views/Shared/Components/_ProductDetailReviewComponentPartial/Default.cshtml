@@ -1,52 +1,142 @@
-﻿<div class="tab-pane fade" id="tab-pane-3">
+﻿@model List<ResultCommentDto>
+
+<div class="tab-pane fade" id="tab-pane-3">
     <div class="row">
         <div class="col-md-6">
-            <h4 class="mb-4">1 Yorum Bulunmaktadır</h4>
-            <div class="media mb-4">
-                <img src="~/online-shop-website-template/img/user.jpg" alt="Image" class="img-fluid mr-3 mt-1" style="width: 45px;">
-                <div class="media-body">
-                    <h6>John Doe<small> - <i>01 Jan 2045</i></small></h6>
-                    <div class="text-primary mb-2">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                        <i class="far fa-star"></i>
+            <h4 class="mb-4">@Model.Count() yorum bulunmaktadır</h4>
+
+            @foreach (var comment in Model)
+            {
+                <div class="media mb-4">
+                    <img src="@comment.ImageUrl" alt="Image" class="img-fluid mr-3 mt-1" style="width: 45px;">
+                    <div class="media-body">
+                        <h6>@comment.NameSurname<small> - <i>@comment.CreatedDate</i></small></h6>
+
+                        <div class="text-primary mb-2">
+                            @if (comment.Rating > 0)
+                            {
+                                @for (int i = 1; i <= comment.Rating; i++)
+                                {
+                                    <i class="fas fa-star"></i>
+                                }
+                                @for (int i = 1; i <= 5 - comment.Rating; i++)
+                                {
+                                    <i class="far fa-star"></i>
+                                }
+                            }
+                            else
+                            {
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                                <i class="far fa-star"></i>
+                            }
+                        </div>
+                        <p>
+                            @comment.CommentDetail
+                        </p>
                     </div>
-                    <p>Diam amet duo labore stet elitr ea clita ipsum, tempor labore accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed sed eirmod ipsum.</p>
                 </div>
-            </div>
+            }
+
         </div>
         <div class="col-md-6">
-            <h4 class="mb-4">Leave a review</h4>
-            <small>Your email address will not be published. Required fields are marked *</small>
-            <div class="d-flex my-3">
-                <p class="mb-0 mr-2">Your Rating * :</p>
-                <div class="text-primary">
-                    <i class="far fa-star"></i>
-                    <i class="far fa-star"></i>
-                    <i class="far fa-star"></i>
-                    <i class="far fa-star"></i>
-                    <i class="far fa-star"></i>
-                </div>
-            </div>
-            <form>
+            <h4 class="mb-4">Bir Yorum Bırakın</h4>
+            <small>Yorumunuzun alınması için geçerli bir email adresi giriniz *</small>
+            <form id="commentForm">
                 <div class="form-group">
-                    <label for="message">Your Review *</label>
-                    <textarea id="message" cols="30" rows="5" class="form-control"></textarea>
+                    <div class="d-flex my-3">
+                        <p class="mb-0 mr-2">Ürün Puanınız :</p>
+                        <div class="text-primary" id="ratingStars">
+                            <i class="far fa-star star" data-index="1"></i>
+                            <i class="far fa-star star" data-index="2"></i>
+                            <i class="far fa-star star" data-index="3"></i>
+                            <i class="far fa-star star" data-index="4"></i>
+                            <i class="far fa-star star" data-index="5"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Yorumunuz *</label>
+                    <textarea id="message" name="commentDetail" cols="30" rows="5" class="form-control" placeholder="Yorumunuz..." required></textarea>
+                </div>
+                <input type="hidden" name="productId" class="form-control" value="@ViewBag.x" readonly>
+                <div class="form-group">
+                    <label for="name">Adınız Soyadınız *</label>
+                    <input type="text" name="nameSurname" class="form-control" id="name" placeholder="Adınız Soyadınız" required>
                 </div>
                 <div class="form-group">
-                    <label for="name">Your Name *</label>
-                    <input type="text" class="form-control" id="name">
-                </div>
-                <div class="form-group">
-                    <label for="email">Your Email *</label>
-                    <input type="email" class="form-control" id="email">
+                    <label for="email">Email Adresiniz *</label>
+                    <input type="email" name="email" class="form-control" id="email" placeholder="örnekmailadresi@adres.com" required>
                 </div>
                 <div class="form-group mb-0">
-                    <input type="submit" value="Leave Your Review" class="btn btn-primary px-3">
+                    <input type="submit" value="Yorum Yapın" class="btn btn-primary px-3">
                 </div>
             </form>
         </div>
     </div>
 </div>
+
+<script>
+    const stars = document.querySelectorAll('.star');
+
+    stars.forEach((star) => {
+        star.addEventListener('click', (e) => {
+            const clickedStarIndex = parseInt(e.target.getAttribute('data-index'));
+            stars.forEach((star, index) => {
+                if (index < clickedStarIndex) {
+                    star.classList.remove('far');
+                    star.classList.add('fas');
+                } else {
+                    star.classList.remove('fas');
+                    star.classList.add('far');
+                }
+            });
+        });
+    });
+</script>
+
+
+<script>
+    document.getElementById('commentForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+
+
+        const stars = document.querySelectorAll('.star');
+        let rating = 0;
+        stars.forEach((star) => {
+            if (star.classList.contains('fas')) {
+                rating = star.getAttribute('data-index');
+            }
+        });
+
+
+        const formData = new FormData(this);
+        formData.append('rating', rating);
+
+
+        fetch('/ProductList/AddComment/', {
+            method: 'POST',
+            body: formData
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (data === true) {
+                    window.location.href = '/Default/Index';
+                } else {
+                    console.error('Error: Comment could not be added.');
+                }
+
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+    });
+</script>

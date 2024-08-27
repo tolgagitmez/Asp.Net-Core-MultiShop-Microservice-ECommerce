@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\views\\shared\\components\\_productdetaildescriptioncomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\shared\\components\\_productdetaildescriptioncomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\views\\shared\\components\\_productdetailinformationcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\shared\\components\\_productdetailinformationcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9154550D-B45B-4BC2-9822-32DADFD37F58}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\apigateway\\multishop.ocelotgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9154550D-B45B-4BC2-9822-32DADFD37F58}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|solutionrelative:apigateway\\multishop.ocelotgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\frontends\\multishop.webui\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F198042-3306-4284-BEF6-40CE2864BA1A}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9154550D-B45B-4BC2-9822-32DADFD37F58}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|c:\\users\\teteg\\masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\asp.net-core-multishop-microservice-ecommerce\\multishop\\apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9154550D-B45B-4BC2-9822-32DADFD37F58}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|solutionrelative:apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T08:43:36.771Z",
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\MultiShop.OcelotGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\Ocelot.json",
+              "RelativeToolTip": "ApiGateway\\MultiShop.OcelotGateway\\Ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T15:46:15.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailInformationComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailInformationComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailInformationComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailInformationComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T08:42:02.346Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\MultiShop.OcelotGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\MultiShop.OcelotGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T15:43:07.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailDescriptionComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailDescriptionComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailDescriptionComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ProductDetailDescriptionComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T08:40:12.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductListController.cs",
-              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\ProductListController.cs",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Controllers\\ProductListController.cs",
-              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\ProductListController.cs",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Controllers\\ProductListController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\teteg\\Masa\u00FCst\u00FC\\dosyalar\u0131m\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAlwFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T08:32:22.4Z",
+              "WhenOpened": "2024-08-27T13:05:40.864Z",
               "EditorCaption": ""
             }
           ]
