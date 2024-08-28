@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GzQJbXARatc=",
+  "dgSpecHash": "pMyqKV6Cg0w=",
   "success": true,
   "projectFilePath": "C:\\Users\\teteg\\Masaüstü\\dosyalarım\\proje\\Asp.Net-Core-MultiShop-Microservice-ECommerce\\MultiShop\\Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj",
   "expectedPackageFiles": [
@@ -54,9 +54,11 @@
     "C:\\Users\\teteg\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
-    "C:\\Users\\teteg\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\teteg\\.nuget\\packages\\identitymodel\\4.5.0\\identitymodel.4.5.0.nupkg.sha512",
+    "C:\\Users\\teteg\\.nuget\\packages\\identitymodel.aspnetcore\\3.0.0\\identitymodel.aspnetcore.3.0.0.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
+    "C:\\Users\\teteg\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\teteg\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",

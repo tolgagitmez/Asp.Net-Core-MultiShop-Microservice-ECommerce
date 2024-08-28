@@ -234,3 +234,7 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-
 C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\IdentityModel.AspNetCore.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll

@@ -135,3 +135,4 @@ C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-
 C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\MultiShop.Comment.pdb
 C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\MultiShop.Comment.genruntimeconfig.cache
 C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\ref\MultiShop.Comment.dll
+C:\Users\teteg\Masaüstü\dosyalarım\proje\Asp.Net-Core-MultiShop-Microservice-ECommerce\MultiShop\Services\Comment\MultiShop.Comment\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
